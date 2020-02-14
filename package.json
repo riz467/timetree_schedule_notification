@@ -13,7 +13,6 @@
     "dotenv": "^8.2.0",
     "node-cron": "^2.0.3",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5",
-    "require": "^2.4.20"
+    "request-promise": "^4.2.5"
   }
 }
